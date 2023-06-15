@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello world!\n");
+    printf("Pues esto es un cambio distinto\n");
     printf("Esto es modificación");
     return 0;
 }
